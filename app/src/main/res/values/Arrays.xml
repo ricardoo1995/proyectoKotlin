@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listado">
+    <item>EJERCICIOS      </item>
+    <item>Press Banca           10-10-10-10-10-10-10-10-10-10</item>
+    <item>Jalón al pecho        10-10-10-10-10-10-10-10-10-10</item>
+    <item>Cruce de poleas       10-10-10-10</item>
+    <item>Remo Cerrado          10-10-10-10</item>
+
+</string-array>
+    <string-array name="listado2">
+        <item>EJERCICIOS      </item>
+        <item>Press Banca           10-10-10-10-10-10-10-10-10-10</item>
+        <item>Jalón al pecho        10-10-10-10-10-10-10-10-10-10</item>
+        <item>Cruce de poleas       10-10-10-10</item>
+        <item>Remo Cerrado          10-10-10-10</item>
+
+    </string-array>
+
+    <string-array name="listado3">
+        <item>EJERCICIOS      </item>
+        <item>Press Banca           10-10-10-10-10-10-10-10-10-10</item>
+        <item>Jalón al pecho        10-10-10-10-10-10-10-10-10-10</item>
+        <item>Cruce de poleas       10-10-10-10</item>
+        <item>Remo Cerrado          10-10-10-10</item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
